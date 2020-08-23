@@ -5,7 +5,8 @@
   "first_name": "Anwesha",
   "last_name" : "Bhowmik",
   "userid" : 1153,
-  "password" : "ankhi"
+  "password" : "ankhi",
+   "role" : "manager"
      }
      ],
   
