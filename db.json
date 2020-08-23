@@ -7,6 +7,13 @@
   "userid" : 1153,
   "password" : "ankhi",
    "role" : "manager"
+     },
+     {
+     "first_name": "Anwesha",
+  "last_name" : "Bhowmik",
+  "userid" : 1154,
+  "password" : "ankhi",
+   "role" : "admin"
      }
      ]
   
