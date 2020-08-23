@@ -11,10 +11,19 @@
        
      },
      {
-       "id":2,
+      
      "first_name": "Anwesha",
   "last_name" : "Bhowmik",
   "id" : "cef@abc",
+  "password" : "ankhi",
+        "role" :"admin"
+     },
+     
+     {
+       
+     "first_name": "Anwesha",
+  "last_name" : "Bhowmik",
+  "id" : 1153,
   "password" : "ankhi",
         "role" :"admin"
      }
