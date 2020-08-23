@@ -2,16 +2,16 @@
   
    "posts": [
      {
-  "firstname": "Anwesha",
-  "lastname" : "Bhowmik",
+  "first_name": "Anwesha",
+  "last_name" : "Bhowmik",
   "userid" : "abc@test",
   "password" : "ankhi",
        "role" :"manager"
        
      },
      {
-     "firstname": "Anwesha",
-  "lastname" : "Bhowmik",
+     "first_name": "Anwesha",
+  "last_name" : "Bhowmik",
   "userid" : "cef@abc",
   "password" : "ankhi",
         "role" :"admin"
