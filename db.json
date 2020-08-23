@@ -2,16 +2,19 @@
   
    "posts": [
      {
-  "first_name": "Anwesha",
-  "last_name" : "Bhowmik",
-  "userid" : 1153,
-  "password" : "ankhi"
+  "firstname": "Anwesha",
+  "lastname" : "Bhowmik",
+  "userid" : "abc@test",
+  "password" : "ankhi",
+       "role" :"manager"
+       
      },
      {
-     "first_name": "Anwesha",
-  "last_name" : "Bhowmik",
-  "userid" : 1154,
-  "password" : "ankhi"
+     "firstname": "Anwesha",
+  "lastname" : "Bhowmik",
+  "userid" : "cef@abc",
+  "password" : "ankhi",
+        "role" :"admin"
      }
      ]
   
