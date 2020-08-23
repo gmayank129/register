@@ -5,15 +5,13 @@
   "first_name": "Anwesha",
   "last_name" : "Bhowmik",
   "userid" : 1153,
-  "password" : "ankhi",
-   "role" : "manager"
+  "password" : "ankhi"
      },
      {
      "first_name": "Anwesha",
   "last_name" : "Bhowmik",
   "userid" : 1154,
-  "password" : "ankhi",
-   "role" : "admin"
+  "password" : "ankhi"
      }
      ]
   
